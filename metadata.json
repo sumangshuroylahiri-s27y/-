@@ -1,0 +1,8 @@
+{
+  "name": "চিঠি",
+  "description": "একটি ডিজিটাল প্ল্যাটফর্ম যেখানে আপনি সুন্দর, আবেগপূর্ণ বাংলা চিঠি লিখতে এবং শেয়ার করতে পারবেন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
